@@ -11,17 +11,6 @@ This repository contains my experiments with **LangChain, OpenAI, local LLMs (Ol
 - Local LLM inference with Ollama
 - OpenAI API integration
 
-## Project Structure
-
-```
-LangChain/
-│
-├── notebooks/          # Jupyter notebooks with experiments
-├── scripts/            # Python scripts
-├── requirements.txt    # Project dependencies
-├── README.md
-```
-
 ## Setup
 
 Clone the repository:
